@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831484990292",
+    "project_id": "uasamub-maubelajarapa-ti7m",
+    "storage_bucket": "uasamub-maubelajarapa-ti7m.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831484990292:android:08e0174d96e76fb45b2ec1",
+        "android_client_info": {
+          "package_name": "com.asus.uas_amub_maubelajarapa_ti7m"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831484990292-bdb8n7uark9qt731676h70buhtu9cnl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAooLZb70p_vgqhkeT2MtYIcly_Y0o9IWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831484990292-bdb8n7uark9qt731676h70buhtu9cnl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
